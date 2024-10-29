@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Saad Alnobani
+<hr>
 
-I’m a dedicated Computer Science student at Princess Sumaya University for Technology, currently ranked 4th in my class. With a strong foundation in software engineering principles and hands-on experience in backend development, my goal is to apply my skills to meaningful projects that make an impact. 
+I’m a dedicated Computer Science student at Princess Sumaya University for Technology, currently ranked 4th in my class, my goal is to apply my skills to meaningful projects that make an impact. 
 
 - 🌱 **Currently Learning**: I’m self-learning React and taking university courses in Algorithm Design and Analysis, Database Systems, and Artificial Intelligence.
 
