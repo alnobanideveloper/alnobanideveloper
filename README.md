@@ -8,7 +8,7 @@ I’m a dedicated Computer Science student at Princess Sumaya University for Tec
 
 - 💞️ **Looking to Collaborate**: I’m always open to collaborating on impactful projects, I’m especially interested in projects that aim to provide innovative solutions and add value to users.
 
-- 📫 **How to Reach Me**: [s1.alnobani@gmail.com](mailto:saad.alnobani@example.com) | [LinkedIn](https://www.linkedin.com/in/saad-alnobani)
+- 📫 **How to Reach Me**: [s1.alnobani@gmail.com](mailto:saad.alnobani@example.com) | [LinkedIn](https://www.linkedin.com/in/saad-alnobani-8bb20a202/)
 
 <!---
 alnobanideveloper/alnobanideveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
