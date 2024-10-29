@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Saad Alnobani
-<hr>
 
 I’m a dedicated Computer Science student at Princess Sumaya University for Technology, currently ranked 4th in my class, my goal is to apply my skills to meaningful projects that make an impact. 
 
