@@ -2,7 +2,8 @@
 
 I’m a dedicated Computer Science student at Princess Sumaya University for Technology, currently ranked 4th in my class, my goal is to apply my skills to meaningful projects that make an impact. 
 
-- 🌱 **Currently Learning**: I’m self-learning React and taking university courses in Algorithm Design and Analysis, Database Systems, and Artificial Intelligence.
+- 🌱 **Currently Learning**: I’m self-learning software egineering and taking university courses in Algorithm Design and Analysis, Database Systems, and Artificial Intelligence
+-  I have experience wiht Java , c++ , web development , reacJs , javascript , sql and database design.
 
 - 🎯 **Goals**: My long-term goal is to become a professional software engineer, with a focus on scalability and performance optimization. I am actively seeking opportunities to collaborate on projects that challenge my skills and allow me to contribute to the tech community.
 
